@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class kureselisinma {
 	static void soru1() {
+		System.out.println("Cevaplar icin 1,2,3,4 tuslayiniz.");
 		System.out.println("Kuresel isinma zararli midir?");
 		System.out.println("1-Evet");
 		System.out.println("2-Hayir");
